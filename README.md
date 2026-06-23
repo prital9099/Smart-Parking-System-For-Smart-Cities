@@ -104,7 +104,7 @@ Tracks parking status and vehicle information.
 
 ## Author
 
-Adisri Amol Mithari
+Prital Prashant Anbhule
 Bachelor of Computer Science Engineering
 D. Y. Patil Agriculture and Technical University
 

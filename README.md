@@ -92,7 +92,7 @@ Tracks parking status and vehicle information.
 
 ---
 
-## Future Enhancements
+## Future Prospects
 
 * Multiple parking slot management
 * Automatic vehicle detection
@@ -105,6 +105,7 @@ Tracks parking status and vehicle information.
 ## Author
 
 Prital Prashant Anbhule
+
 Bachelor of Computer Science Engineering
 D. Y. Patil Agriculture and Technical University
 
